@@ -1,0 +1,10 @@
+# Ignore all video file
+*.mp4
+*.avi
+
+# Ignore python and vscode cache
+.vscode
+__pycache__
+
+# Ignore Minecraft world folder
+RedVideo
